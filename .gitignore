@@ -1,0 +1,10 @@
+# Local Codex/runtime scratch
+.codex-deps/
+.steam_workshop_*.html
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+

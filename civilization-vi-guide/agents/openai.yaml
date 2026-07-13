@@ -1,0 +1,4 @@
+interface:
+  display_name: "文明VI攻略助手"
+  short_description: "文明VI答疑、攻略规划、新手教程、局势诊断与胜利路线助手"
+  default_prompt: "Use $civilization-vi-guide to explain my current Civilization VI situation and suggest the next 10 turns."
